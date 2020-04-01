@@ -21,15 +21,15 @@
   "license": "MIT",
   "homepage": "https://github.com/hanFengSan/nestjs-simple-redis-lock#readme",
   "dependencies": {
-    "@nestjs/common": "^6.6.7",
-    "@nestjs/core": "^6.6.7",
+    "@nestjs/common": "^7.0.0",
+    "@nestjs/core": "^7.0.0",
     "@types/debug": "^4.1.5",
     "debug": "^4.1.1",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^6.5.3",
-    "nestjs-redis": "^1.2.3"
+    "rxjs": "^6.5.4",
+    "nestjs-redis": "^1.2.7"
   },
   "devDependencies": {
-    "typescript": "^3.6.3"
+    "typescript": "^3.8.3"
   }
 }
